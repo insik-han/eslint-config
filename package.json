@@ -1,10 +1,12 @@
 {
-  "name": "eslint-config",
-  "private": true,
+  "name": "eslint-config-insik",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "insik-han",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.1"
+  }
 }
