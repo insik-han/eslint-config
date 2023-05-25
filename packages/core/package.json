@@ -1,0 +1,13 @@
+{
+  "name": "core",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "insik-han",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
