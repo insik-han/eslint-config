@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["plugin:react-hools/recommend", "@insik-han/base"],
+  extends: ["plugin:react-hooks/recommend", "@insik-han/base"],
   plugins: ["react-hooks"],
   settings: {
     react: {
