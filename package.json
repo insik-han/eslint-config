@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
   "author": "insik-han",
   "license": "ISC",
+  "scripts": {},
   "devDependencies": {
     "@changesets/cli": "^2.26.1"
   }
