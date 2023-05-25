@@ -1,11 +1,12 @@
 {
   "name": "@insik-han/eslint-config",
   "version": "0.0.1",
+  "private": true,
   "description": "",
   "author": "insik-han",
   "license": "ISC",
   "scripts": {
-    "ci:publish": "pnpm publish -r"
+    "ci:publish": "pnpm publish -r --access public --no-git-checks"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1"
