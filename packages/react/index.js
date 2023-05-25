@@ -1,5 +1,3 @@
-const config = {
-  extends: ["core"],
+module.exports = {
+  extends: ["@insik-han/base"],
 };
-
-module.exports = config;

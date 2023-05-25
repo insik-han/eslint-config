@@ -1,8 +1,7 @@
 {
-  "name": "eslint-config-insik",
+  "name": "@insik-han/eslint-config",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "author": "insik-han",
   "license": "ISC",
   "scripts": {},
