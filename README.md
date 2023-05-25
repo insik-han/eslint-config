@@ -1,4 +1,4 @@
-# Eslint Insik
+# Eslint Config
 
 - add npm package to local package
 
