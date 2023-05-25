@@ -1,11 +1,11 @@
 {
   "name": "@insik-han/eslint-config-react",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "author": "insik-han",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@insik-han/eslint-config-base": "workspace:^",
     "eslint-plugin-react-hooks": "^4.6.0"
   }
