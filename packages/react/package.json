@@ -6,6 +6,7 @@
   "author": "insik-han",
   "license": "ISC",
   "devDependencies": {
-    "@insik-han/eslint-config-base": "workspace:^"
+    "@insik-han/eslint-config-base": "workspace:^",
+    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }

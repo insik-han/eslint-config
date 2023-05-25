@@ -1,7 +1,8 @@
 module.exports = {
   rules: {
     eqeqeq: "warn",
-    "no-console": "warn",
+    "perfer-const": "warn",
+    "no-console": "none",
   },
   parserOptions: {
     ecmaVersion: "latest",
